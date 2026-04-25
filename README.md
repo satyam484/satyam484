@@ -1,13 +1,6 @@
-<h1 align="center">Hi 👋, I'm Satyam Chaubey</h1>
-<h3 align="center">Data Analyst | Aspiring Data Scientist</h3>
-
----
-
 ## 🚀 About Me
-- 📊 Passionate about Data Analysis, Machine Learning & Business Insights  
-- 🧠 Skilled in Python, SQL, and building end-to-end data projects  
-- 📈 Experienced in creating dashboards and extracting actionable insights  
-- ⚡ Actively seeking Data Analyst / Data Science roles  
+- 📊 Passionate about data analysis and machine learning  
+- 🧠 Skilled in extracting insights from real-world datasets
 
 ---
 
@@ -16,8 +9,8 @@
 <a href="https://linkedin.com/in/imsatya28" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://github.com/satyam484" target="blank">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<a href="https://instagram.com/satya28_" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
 
@@ -52,5 +45,3 @@
 ---
 
 
-## 💡 Fun Fact
-I enjoy solving mathematical puzzles and analyzing real-world data 🚀
