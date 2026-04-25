@@ -22,6 +22,8 @@
 <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge"/>
@@ -44,4 +46,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=satyam484&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+## 💬 Random Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
